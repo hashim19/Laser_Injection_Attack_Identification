@@ -1,0 +1,16 @@
+webrtcvad
+tqdm
+scipy>=1.2.1
+librosa>=0.6.1
+torch>=1.0.1
+pydub
+matplotlib
+pandas
+seaborn
+fitter
+umap
+umap-learn
+ipympl
+PyWavelets
+praat-parselmouth
+playsound
